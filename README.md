@@ -1,2 +1,2 @@
-# ai-image-generator
-AI Image Generator
+# AI Image Generator
+Artificial Intelligence Image Generator
