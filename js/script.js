@@ -3,9 +3,9 @@ const generateForm = document.querySelector(".generate-form");
 const generateBtn = generateForm.querySelector(".generate-btn");
 const imageGallery = document.querySelector(".image-gallery");
 
-<!-- const OPENAI_API_KEY = "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"; -->
-const OPENAI_API_KEY = "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"
-<!-- const OPENAI_API_KEY = "3c84dd9a9b6fb40972ad3da934285dc6" -->
+const OPENAI_API_KEY = "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";
+/* const OPENAI_API_KEY = "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" */
+/* const OPENAI_API_KEY = "3c84dd9a9b6fb40972ad3da934285dc6" */
 let isImageGenerating = false;
 
 const updateImageCard = (imgDataArray) => {
