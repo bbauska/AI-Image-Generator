@@ -3,7 +3,8 @@ const generateForm = document.querySelector(".generate-form");
 const generateBtn = generateForm.querySelector(".generate-btn");
 const imageGallery = document.querySelector(".image-gallery");
 
-const OPENAI_API_KEY = "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";
+<!-- const OPENAI_API_KEY = "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"; -->
+const OPENAI_API_KEY = "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"
 
 /* const OPENAI_API_KEY = "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" */
 /* const OPENAI_API_KEY = "3c84dd9a9b6fb40972ad3da934285dc6" */
